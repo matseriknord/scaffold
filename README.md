@@ -12,3 +12,4 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+[![Python application test with Github Actions](https://github.com/matseriknord/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/matseriknord/scaffold/actions/workflows/main.yml)
